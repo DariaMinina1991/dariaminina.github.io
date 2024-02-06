@@ -1,5 +1,5 @@
 
-- *<strong><strong>Learning in a Complex World: Insights from an OLG lab Experiment</strong></strong>, Cars Hommes, Stefanie Huber, Daria Minina and Isabelle Salle  (2023). * [[The Bank of Canada working paper]](https://www.bankofcanada.ca/2023/02/staff-working-paper-2023-13/)
+- *<strong><strong>Learning in a Complex World: Insights from an OLG lab Experiment</strong></strong>, Cars Hommes, Stefanie Huber, Daria Minina and Isabelle Salle  (2023).* [[The Bank of Canada working paper]](https://www.bankofcanada.ca/2023/02/staff-working-paper-2023-13/)
 
 - *Cao, A., Yang, X., Wang, C., <strong><strong>Li, S.</strong></strong>, Liu, Y., Dou, L. & Niu, Q. (2023). High-precision phase picking and automatic source locating method for seismicity in mines based on deep transfer learning.* [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
 
