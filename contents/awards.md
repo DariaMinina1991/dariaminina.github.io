@@ -5,4 +5,4 @@
 
 - *Mathematics 1. Calculus, 2023 - (TA, University of Amsterdam)* [[Link]](https://studiegids.uva.nl/xmlpages/page/2023-2024-en/search-course/course/111483)
     
-- *Econometrics II, 2020 - (TA, Tinbergen Institute)* [[Link]](https://www.tinbergen.nl/courses/190/econometrics-ii)
+- *Econometrics II, 2020 (TA, Tinbergen Institute)* [[Link]](https://www.tinbergen.nl/courses/190/econometrics-ii)
