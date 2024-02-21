@@ -11,6 +11,7 @@ After decades of stable prices, central bankers face the crucial challenge of ke
 <h2 id="wip">Work in progress: </h2>
 
 - *<strong><strong>House Prices and Rents as Signals for Consumer Inflation Expectations</strong></strong>.*
+  
 Using the data from a representative consumer survey, this paper documents a robust empirical fact that homeowners expect higher inflation on all time horizons than renters. I then explore the potential reasons for this finding. I identify the perceived inflation as the main reason for the observed gap in inflation expectations. Homeowners and renters differ in their estimates of current inflation which results in the differences in expectations. House prices and rents, in turn, play an important role in the formation of inflation perceptions. The findings of the paper suggest that informing consumers about the current level of inflation might be an effective monetary policy tool.  
 
 - *<strong><strong>The Effects of Macro and Micro Shocks on the Firms' Price-Setting. The Expectations Channel</strong></strong>.*
