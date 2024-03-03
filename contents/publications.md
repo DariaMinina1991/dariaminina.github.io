@@ -10,9 +10,13 @@ After decades of stable prices, central bankers face the crucial challenge of ke
 
 <h2 id="wip">Work in progress: </h2>
 
-- *<strong><strong>House Prices and Rents as Signals for Consumer Inflation Expectations</strong></strong>.*
+- *<strong><strong>House Prices and Rents as Signals for Consumer Inflation Expectations</strong></strong>, Gabriele Galati, Daria Minina, Richhild Moessner, and Maarten van Rooij.*
   
 Using the data from a representative consumer survey, this paper documents a robust empirical fact that homeowners expect higher inflation on all time horizons than renters. I then explore the potential reasons for this finding. I identify the perceived inflation as the main reason for the observed gap in inflation expectations. Homeowners and renters differ in their estimates of current inflation which results in the differences in expectations. House prices and rents, in turn, play an important role in the formation of inflation perceptions. The findings of the paper suggest that informing consumers about the current level of inflation might be an effective monetary policy tool.  
+
+- *<strong><strong>The effect of information on consumer inflation expectations</strong></strong>.*
+
+This paper examines how information provision affects consumers’ inflation expectations. Using data from a representative Dutch household survey, we document that providing information about current and past inflation rates, as well as the ECB inflation target, brings inflation expectations closer to the target and reduces the upward bias typically found in the literature. The beneficial effect of information holds across various types of inflation expectations and time horizons. We also find that consumers' reactions to information are heterogeneous, with women, individuals with low levels of education and income, and renters showing stronger reactions to information provision. Finally, we observe that the effect of information provision on inflation expectations in times of normal economic activity is similar to its effects during periods of large economic shocks such the start of the Covid-19 pandemic, the Ukraine war and the start in 2022 of the monetary tightening cycle following a strong increase in inflation.
 
 - *<strong><strong>The Effects of Macro and Micro Shocks on the Firms' Price-Setting. The Expectations Channel</strong></strong>.*
 
